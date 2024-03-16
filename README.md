@@ -89,4 +89,3 @@ docker exec -it shard-01-node-a bash -c "echo 'rs.printSlaveReplicationInfo()' |
 ## 🔎 Overall system
 
 ![Overall System](https://i.ibb.co/tBR7jCk/mongo-cluster-H-th-ng-overall-drawio.png)
-![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)
