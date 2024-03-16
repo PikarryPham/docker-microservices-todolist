@@ -86,3 +86,6 @@ docker exec -it shard-01-node-a bash -c "echo 'rs.status()' | mongosh --port 270
 docker exec -it shard-01-node-a bash -c "echo 'rs.printReplicationInfo()' | mongosh --port 27017" 
 docker exec -it shard-01-node-a bash -c "echo 'rs.printSlaveReplicationInfo()' | mongosh --port 27017"
 ```
+## 🔎 Overall systems
+
+![alt text](https://imgur.com/a/adT2I2J)
