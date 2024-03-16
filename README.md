@@ -86,6 +86,6 @@ docker exec -it shard-01-node-a bash -c "echo 'rs.status()' | mongosh --port 270
 docker exec -it shard-01-node-a bash -c "echo 'rs.printReplicationInfo()' | mongosh --port 27017" 
 docker exec -it shard-01-node-a bash -c "echo 'rs.printSlaveReplicationInfo()' | mongosh --port 27017"
 ```
-## 🔎 Overall systems
+## 🔎 Overall system
 
-![alt text](https://ibb.co/9nPFKYz)
+![Overall System]([https://ibb.co/9nPFKYz](https://i.ibb.co/tBR7jCk/mongo-cluster-H-th-ng-overall-drawio.png))
