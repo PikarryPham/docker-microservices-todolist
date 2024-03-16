@@ -88,4 +88,4 @@ docker exec -it shard-01-node-a bash -c "echo 'rs.printSlaveReplicationInfo()' |
 ```
 ## 🔎 Overall systems
 
-![alt text](https://imgur.com/a/adT2I2J)
+![alt text](https://ibb.co/9nPFKYz)
