@@ -1,4 +1,4 @@
-Instruction - PSS Style (Primary -Secondary - Secondary)
+Instruction - MongoDB Cluster (Primary - Secondary - Secondary)
 =========================================
 
 ---
